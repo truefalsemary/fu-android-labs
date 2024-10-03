@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">Лаба 1</string>
-    <string name="hello_world">Здравствуй, мир!</string>
-    <string name="start_button_desctiption">Стартовая кнопка</string>
-    <string name="image_little_fool">Я дурачок</string>
-
-</resources>
