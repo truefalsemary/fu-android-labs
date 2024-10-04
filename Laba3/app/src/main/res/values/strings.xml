@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Laba3</string>
+    <string name="firstTextView">The first TextView</string>
+    <string name="secondTextview">Yet another TextView</string>
+    <string name="thirdTextview">Almost last TextView</string>
+    <string name="lastTextview">Last TextView</string>
+    <string name="buttonOk">OK</string>
+    <string name="buttonThen">THEN</string>
 </resources>
