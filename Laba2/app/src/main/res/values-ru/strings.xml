@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Лаба 2</string>
+    <string name="Name">Имя:</string>
+    <string name="Age">Возраст:</string>
+    <string name="Specialization">Специализация:</string>
+    <string name="photo">Фото</string>
+    <string name="projects">Проекты</string>
+    <string name="achievements">Достижения</string>
+    <string name="profile_avatar">Аватар</string>
+
+</resources>
