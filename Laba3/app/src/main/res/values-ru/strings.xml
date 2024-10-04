@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Laba3</string>
+    <string name="firstTextView">Первый TextView</string>
+    <string name="secondTextview">Еще один TextView</string>
+    <string name="thirdTextview">Предпоследний TextView</string>
+    <string name="lastTextview">Последний TextView</string>
+    <string name="buttonOk">Принять</string>
+    <string name="buttonThen">Далее</string>
+</resources>
