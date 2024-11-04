@@ -22,7 +22,8 @@
 
 ### Лабораторная 5 
 Добавлена иконка в приложение
-![my_icon](https://github.com/user-attachments/assets/9740aa7b-9254-4741-802f-46d3538c9912)
+<img width="319" alt="Screenshot with icon" src="https://github.com/user-attachments/assets/9740aa7b-9254-4741-802f-46d3538c9912">
+
 
 
 
