@@ -20,5 +20,9 @@
   - Сделать так, чтобы прокручивалась только нижняя часть экрана, то есть только текст.
 [lab3dop2.webm](https://github.com/user-attachments/assets/445d9bbe-d893-4817-bf0a-3cb96dc8cb71)
 
+### Лабораторная 5 
+Добавлена иконка в приложение
+![my_icon](https://github.com/user-attachments/assets/9740aa7b-9254-4741-802f-46d3538c9912)
+
 
 
