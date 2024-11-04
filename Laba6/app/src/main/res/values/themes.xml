@@ -6,4 +6,17 @@
     </style>
 
     <style name="Theme.Laba6" parent="Base.Theme.Laba6" />
+
+    <style name="ButtonStyle">
+        <item name="android:buttonCornerRadius">0dp</item>
+        <item name="android:textSize">30sp</item>
+    </style>
+
+    <style name="TextViewStyle">
+        <item name="android:gravity">center</item>>
+        <item name="android:textSize">30sp</item>
+        <item name="android:textColor">@android:color/background_dark</item>
+        <item name="android:lineSpacingExtra">10sp</item>
+        <item name="android:background">@android:color/background_light</item>
+    </style>
 </resources>
