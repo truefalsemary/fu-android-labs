@@ -25,6 +25,14 @@
 
 <img width="319" alt="Screenshot with icon" src="https://github.com/user-attachments/assets/9740aa7b-9254-4741-802f-46d3538c9912">
 
+### Лабораторная 6
+<img width="230" alt="Screenshot 2024-11-04 at 23 56 47" src="https://github.com/user-attachments/assets/436ee2e4-5930-45f7-b63d-729dc36d850e">
+
+
+- добавлена функция возведения в степень
+- кнопки сделаны прямоугольными без закруглений, текст в ячейках центрирован
+- обработка неверно введенного числа
+
 
 
 
