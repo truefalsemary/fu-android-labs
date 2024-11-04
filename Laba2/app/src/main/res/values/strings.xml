@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab 2</string>
+    <string name="Name">Name:</string>
+    <string name="Age">Age:</string>
+    <string name="Specialization">Specialization:</string>
+    <string name="photo">Photo</string>
+    <string name="projects">Projects</string>
+    <string name="achievements">Achievements</string>
+    <string name="profile_avatar">Profile`s avatar</string>
+</resources>
