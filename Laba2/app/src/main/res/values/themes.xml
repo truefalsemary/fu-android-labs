@@ -6,4 +6,27 @@
     </style>
 
     <style name="Theme.MyApplication" parent="Base.Theme.MyApplication" />
+
+    <style name="GridViewStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">8dp</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:layout_marginRight">8dp</item>
+        <item name="android:columnCount">3</item>
+        <item name="android:horizontalSpacing">8dp</item>
+        <item name="android:useDefaultMargins">true</item>
+        <item name="android:verticalSpacing">8dp</item>
+    </style>
+
+    <style name="TabButtonStyle" parent="Widget.AppCompat.Button">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:background">@drawable/tab_selector</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:minWidth">0dp</item>
+        <item name="android:maxWidth">0dp</item>
+        <item name="android:layout_weight">1</item>
+
+    </style>
 </resources>
