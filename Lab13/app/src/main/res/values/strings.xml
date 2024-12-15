@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">firebase_lab</string>
+    <string name="email">Почта</string>
+    <string name="password">Пароль</string>
+    <string name="name">Имя</string>
+    <string name="go_to_register">Перейти к регистрации</string>
+    <string name="income">Вход</string>
+    <string name="welcome_text">Добро пожаловать!</string>
+    <string name="logout">Выйти</string>
+    <string name="logo_description">Logo</string>
+</resources>
