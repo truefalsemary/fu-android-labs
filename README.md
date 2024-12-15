@@ -48,10 +48,87 @@
 <details>
 <summary>Лабораторная 7</summary>
 
+сделаны все 3 задания
+
 [дфи7.webm](https://github.com/user-attachments/assets/d7212f46-3f99-49a2-8229-536c3fe329b2)
 
-сделаны все 3 задания
 </details>
+
+<details>
+<summary>Лабораторная 8</summary>
+
+  - доп задание с меню и сама лаба 
+
+
+<img src="https://github.com/user-attachments/assets/1660940d-6e87-4579-90d3-e006820a60e8" width="300" >
+
+<img src="https://github.com/user-attachments/assets/1b459f29-7959-4f85-bb36-0e67b192a733" width="300" >
+
+<img src="https://github.com/user-attachments/assets/ce681810-ec68-4ff9-852f-f6b96b40bf73" width="300" >
+
+<img src="https://github.com/user-attachments/assets/809c3259-b32c-4474-aa89-b4cd5f1289ed" width="300" >
+
+
+
+</details>
+
+<details>
+<summary>Лабораторная 9</summary>
+  
+  - добавлены уведомления 
+
+<img src="https://github.com/user-attachments/assets/31d71ced-a34d-4b1a-8547-35d65a151273" width="300" >
+
+</details>
+
+<details>
+<summary>Лабораторная 10</summary>
+
+  - Навигацию между страницами с кнопкой делала еще во 2 лабе
+
+[Screen_recording_20241215_171739.webm](https://github.com/user-attachments/assets/b038a8ef-3c4f-42c9-9518-4944d2673dfc)
+
+</details>
+
+
+<details>
+<summary>Лабораторная 11</summary>
+
+- добавлена веб вью
+- поддержана навигация назад в браузере
+- добавлена возможность включать/выключать фонарики (при этом приходят всплывающие уведомления)
+
+[Screen_recording_20241215_174012.webm](https://github.com/user-attachments/assets/b77aafd3-5384-4091-a70f-e2d37dfd6dd0)
+
+
+
+
+</details>
+
+<details>
+<summary>Лабораторная 12</summary>
+
+- доп добавлена возможность очищать базу данных, а не только добавлять в нее элементы
+
+[Screen_recording_20241215_193249.webm](https://github.com/user-attachments/assets/aec01dcb-59f3-426d-9601-329359d1c160)
+
+
+
+</details>
+
+
+<details>
+<summary>Лабораторная 13</summary>
+
+[login.webm](https://github.com/user-attachments/assets/34f15a1a-49a1-4ba2-8d5a-c1b9bab6ca45)
+
+[register.webm](https://github.com/user-attachments/assets/76925828-e0d6-404c-9c23-150f058fde39)
+
+
+
+</details>
+
+
 
 
 
