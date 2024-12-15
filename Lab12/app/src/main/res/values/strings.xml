@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab12</string>
+    <string name="btn_db">Load data from db</string>
+    <string name="clear_database">Clear Database</string>
+</resources>
