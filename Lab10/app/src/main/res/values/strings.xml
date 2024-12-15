@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab10</string>
+    <string name="Work_10_1">Окно 1</string>
+    <string name="Work_10_2">Окно 2</string>
+    <string name="Work_10_3">Окно 3</string>
+    <string name="go_to_2nd_fragment">Go to 2nd fragment</string>
+</resources>
